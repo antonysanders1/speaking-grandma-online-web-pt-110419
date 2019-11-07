@@ -2,7 +2,7 @@
 
 def speak_to_grandma(phrase)
   
-  phrase = "Hi!"
+ # phrase = "Hi!"
   
   if phrase == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
