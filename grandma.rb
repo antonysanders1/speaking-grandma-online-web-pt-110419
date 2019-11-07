@@ -4,7 +4,7 @@ if speak_to_grandma == "Hi!"
   elsif speak_to_grandma == "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
     elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
-    puts "HUH?! SPEAK UP, SONNY!"
+    puts "NO, NOT SINCE 1938!"
     elsif speak_to_grandma == "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
   end
