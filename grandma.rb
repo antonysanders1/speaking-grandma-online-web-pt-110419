@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma
-  if 
+  if i_say == ""
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
