@@ -1,6 +1,5 @@
 # Write a speak_to_grandma method.
-if speak_to_grandma == "I LOVE YOU GRANDMA!"
-  if i_say == "I LOVE YOU GRANDMA!"
+if speak_to_grandma == "Hi!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 # Whatever you say to grandma, she should respond with
