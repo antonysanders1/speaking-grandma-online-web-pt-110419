@@ -1,6 +1,9 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma("I LOVE YOU GRANDMA!")
+def speak_to_grandma
+  
+  speak_to_grandma == "Hi!"
+  
   if speak_to_grandma == "Hi!"
     puts "HUH?! SPEAK UP, SONNY!"
   elsif speak_to_grandma == "Hi Nana, how are you?"
