@@ -1,6 +1,8 @@
 # Write a speak_to_grandma method.
 if speak_to_grandma == "Hi!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+    puts "HUH?! SPEAK UP, SONNY!"
+  elsif speak_to_grandma == "Hi!"
+    puts "HUH?! SPEAK UP, SONNY!"
   end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
